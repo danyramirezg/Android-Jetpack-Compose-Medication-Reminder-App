@@ -78,7 +78,7 @@ fun HeaderIntro() {
     Column(modifier = Modifier.fillMaxWidth(), horizontalAlignment = Alignment.CenterHorizontally) {
         Text(
             "Mis Recordatorios",
-            color = Color.LightGray,
+            color = Color.Black,
             fontWeight = FontWeight.Bold,
             fontStyle = FontStyle.Normal,
             fontSize = 30.sp
